@@ -1,0 +1,71 @@
+body {
+  background-color:floralwhite;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+}
+
+.nav-bar{
+  background-color: black;
+  margin-bottom: 40px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  filter: drop-shadow(0px 4px 10px);
+}
+
+.nav-bar p {
+  transition: transform .5s;
+}
+
+.nav-bar p:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.logo-wrapper {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.logo-wrapper p {
+  display:  block;
+  color: whitesmoke;
+}
+
+.nav-bar img {
+  display: inline;
+  width: 200px;
+}
+
+.nav-bar p {
+  margin-top: 0px;
+}
+
+.container {
+  margin-top: 220px;
+  z-index: 2;
+}
+
+.news {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.news img {
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+  transition: transform .5s;
+  filter: drop-shadow(2px 2px 5px);
+  cursor: pointer;
+}
+
+.news img:hover {
+  transform: scale(1.1);
+}
+
