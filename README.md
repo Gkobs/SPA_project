@@ -1,6 +1,6 @@
 # SPA_project (on going)
 
-##Challenge
+<h2>Challenge</h2>
 <p> Make an SPA using javascript without using promises and only using callbacks.</p>
 <p> So I could train how to use callbacks and better understand how they function</p>
 
