@@ -1,4 +1,4 @@
-# SPA_project (on going)
+# SPA_project
 
 <h2>Challenge</h2>
 <p> Make an SPA using javascript without using promises and only using callbacks.</p>
@@ -6,7 +6,4 @@
 
 <h2>My Project</h2>
 <p> I used a public REST API that served me a json with news about an Online Game. </p>
-<p> I show the banners in the main page and the specific news when clicked on it.</p>
-
-<h2>To do</h2>
-<p> Finishing implementation of the view that shows the info of the specific news. </p>
+<p> I show the banners in the main page and the specific news when clicked on it.</p>>
